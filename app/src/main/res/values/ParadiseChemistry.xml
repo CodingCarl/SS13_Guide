@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ParadiseChemistry">
+        <item>Components</item>
+        <item>Ammonia</item>
+        <item>Sulphuric Acid</item>
+        <item>Ash</item>
+        <item>Carpet</item>
+        <item>Oil</item>
+        <item>Phenol</item>
+        <item>Acetone</item>
+        <item>Diethylamine</item>
+        <item>Saltpetre</item>
+        <item>Welding Fuel</item>
+        <item>Core Healing Medicines</item>
+        <item>Silver Sulfadiazine</item>
+        <item>Styptic Powder</item>
+        <item>SalineGlucose Solution</item>
+        <item>Synthflesh</item>
+        <item>Charcoal</item>
+        <item>Salbutamol</item>
+        <item>Cryoxadone</item>
+        <item>Synth Meat</item>
+        <item>Mannitol</item>
+        <item>Superior Healing Medicines</item>
+        <item>Salicylic Acid</item>
+        <item>Omnizine</item>
+        <item>Pentetic Acid</item>
+        <item>Perfluorodecalin</item>
+        <item>Atropine</item>
+        <item>Calomel</item>
+        <item>Mutadone</item>
+        <item>Unique Healing Medicines</item>
+        <item>Potassium Iodide</item>
+        <item>Ephedrine</item>
+        <item>Diphenhydramine</item>
+        <item>Morphine</item>
+        <item>Ether</item>
+        <item>Hydrocodone</item>
+        <item>Oculine</item>
+        <item>Epinephrine</item>
+        <item>Antihol</item>
+        <item>Stimulants</item>
+        <item>Insulin</item>
+        <item>Spaceacillin</item>
+        <item>Strange Reagent</item>
+        <item>Simethicone</item>
+        <item>Teporone</item>
+        <item>Haloperidol</item>
+        <item>Rezadone</item>
+        <item>Mitocholide</item>
+        <item>Liquid Solder</item>
+        <item>Degreaser</item>
+        <item>Fliptonium</item>
+        <item>Other Chems</item>
+    </string-array>
+
+    <string name="ParadiseChemistryComponents"
+        >These are very basic chemicals that you\'ll use in a lot of other more complicated chems. They can still be toxic, though.
+</string>
+    <string name="ParadiseChemistryAmmonia"
+        >3 parts Hydrogen
+1 part Nitrogen
+
+An alternative fertilizer for botany and a key component for many common meds (results in 3 units instead of 4). Less effective than Diethylamine.
+</string>
+    <string name="ParadiseChemistrySulphuric_Acid"
+        >1 part Sulfur\n
+1 part Oxygen\n
+1 part Hydrogen\n
+
+An acid that\'s utilized as a building block in a lot of medical chemicals (results in 2 units instead of 3). It\'s also useful for etching circuits....etching permanent scars in your coworker\'s face.
+</string>
+    <string name="ParadiseChemistryAsh"
+        >1 part Oil
+Temperature 480 K
+or burning paper
+
+Basic ingredient in a couple of recipes.
+</string>
+    <string name="ParadiseChemistryCarpet"
+        >1 part Fungus
+1 part Blood
+
+Creates a dirty carpet on the floor.
+</string>
+    <string name="ParadiseChemistryOil"
+        >1 part Welding Fuel
+1 part Carbon
+1 part Hydrogen
+Burns in a small smoky fire, mostly used to get Ash.
+</string>
+    <string name="ParadiseChemistryPhenol"
+        >1 part Water
+1 part Chlorine
+1 part Oil
+
+Used for certain medical recipes.
+</string>
+    <string name="ParadiseChemistryAcetone"
+        >1 part Oil
+
+
+1 part Welding Fuel
+1 part Oxygen
+Common ingredient in other recipes.
+</string>
+    <string name="ParadiseChemistryDiethylamine"
+        >1 part Ammonia
+
+1 part Ethanol
+Temperature 374 K
+A very potent fertilizer, and the base component of some medicines.
+</string>
+    <string name="ParadiseChemistrySaltpetre"
+        >1 part Potassium
+1 part Nitrogen
+3 parts Oxygen
+Ingredient for Bath Salts and Black Powder.
+</string>
+    <string name="ParadiseChemistryWelding_Fuel"
+        >None! Find it in welding fuel tanks.
+A highly flammable blend of basic hydrocarbons, mostly Acetylene. Useful for both welding and organic chemistry.
+</string>
+    <string name="ParadiseChemistryCore_Healing_Medicines"
+        >These healing drugs form the "core" drugs used to heal the most common forms of damage. All other medical drugs outside of this section are either harder to make upgrades, or highly specific forms of healing for rarer situations.
+</string>
+    <string name="ParadiseChemistrySilver_Sulfadiazine"
+        >1 part Ammonia
+1 part Silver
+1 part Sulfur
+1 part Oxygen
+1 part Chlorine
+Burn
+On touch, instantly heals burn damage equal to the volume in units.
+
+Basic antiburn healing drug. On ingestion, deals toxins damage equal to half the consumed volume. Heals 2 burn per cycle.
+</string>
+    <string name="ParadiseChemistryStyptic_Powder"
+        >1 part Aluminium
+1 part Hydrogen
+1 part Oxygen
+1 part Sulphuric Acid
+
+	Brute
+
+On touch, instantly heals brute damage equal to the volume in units.
+
+Basic antibrute healing drug. On ingestion, deals toxins damage equal to half the consumed volume. Heals 2 brute per cycle.
+</string>
+    <string name="ParadiseChemistrySalineGlucose_Solution" formatted="false"
+        >1 part Sodium Chloride
+1 part Water
+1 part Sugar
+Brute, burn
+Has a 33% chance per metabolism cycle to heal 2 points of brute and burn damage each. Has another 33% chance per cycle to restore a bit of blood.
+</string>
+    <string name="ParadiseChemistrySynthflesh" formatted="false"
+        >1 part Blood
+1 part Carbon
+1 part Styptic Powder
+
+	Brute, burn
+
+On touch, heals 1.5 times the applied volume in brute and burn damage.
+Touch based only  no effects percycle
+</string>
+    <string name="ParadiseChemistryCharcoal"
+        >1 part Ash
+1 part Sodium Chloride
+Temperature 380 K
+
+Toxin
+
+Heals 1.5 points of toxins damage per cycle, and has a 50% chance of removing 1u of all other chems present per cycle.
+</string>
+    <string name="ParadiseChemistrySalbutamol"
+        >1 part Salicylic Acid
+1 part Lithium
+1 part Aluminium
+1 part Bromine
+1 part Ammonia
+
+	Suffocation
+
+Heals 6 points of oxygen damage per cycle while capping suffocation at 4 points. Great for stabilizing critical patients!
+</string>
+    <string name="ParadiseChemistryCryoxadone"
+        >1 part Plasma
+1 part Acetone
+1 part Unstable Mutagen
+1 part Cryostylane
+
+	All types
+
+	Required for the proper function of cryogenics. It heals, per cycle:
+
+    4 points of clone damage
+    10 points of oxy damage
+    12 points of brute and burn damage
+    3 points of toxin damage
+
+However, this functions only when the person\'s body temperature is below 265 Kelvin.
+</string>
+    <string name="ParadiseChemistrySynth_Meat"
+        >1 part Cryoxadone
+5 parts Blood
+
+Synthetic Meat
+
+Creates a piece of synthetic meat at location of reactionlargely used to help restock the cloner\'s biomass.
+</string>
+    <string name="ParadiseChemistryMannitol"
+        >1 part Hydrogen
+1 part Water
+1 part Sugar
+
+Brain
+
+Heals 3 points of brain damage per cycle. Use it in cryo tubes alongside Cryoxadone.
+</string>
+    <string name="ParadiseChemistrySuperior_Healing_Medicines"
+        >These healing drugs are harder to make than the core healing drugs, however they are significantly better at healing.
+Also, many upgraded drugs can be overdosed with, leading to a negative outcome. Be sure to monitor how many units of chemicals someone is injected with.
+</string>
+    <string name="ParadiseChemistrySalicylic_Acid" formatted="false">1 part Sodium
+1 part Phenol
+1 part Carbon
+1 part Oxygen
+1 part Sulphuric Acid
+
+	Brute and painkiller
+
+If you have less than 50 brute damage, there is a 50% chance to heal one unit.
+If overdosed it will have a 50% chance to deal 2 brute damage if the patient has less than 50 brute damage already.
+</string>
+    <string name="ParadiseChemistryOmnizine" formatted="false"
+        >Found in warm Donk Pockets or rainbow cotton candy.
+
+Brute, burn, toxin and suffocation
+
+Heals 1 of each damage type a cycle, no side effects or restrictions. Found in warmed up donk pockets. Only eating them will produce the reagent. Grinding won\'t help.
+If overdosed it will deal significant amounts of each damage type.
+</string>
+    <string name="ParadiseChemistryPentetic_Acid" formatted="false"
+        >1 part Welding Fuel
+1 part Chlorine
+1 part Ammonia
+1 part Formaldehyde
+1 part Sodium
+1 part Cyanide
+
+	Radiation, toxin
+
+Reduces massive amounts of radiation and toxin damage while purging other chemicals from the body. Has a chance of dealing brute damage.
+</string>
+    <string name="ParadiseChemistryPerfluorodecalin" formatted="false"
+        >1 part Hydrogen
+1 part Fluorine
+1 part Oil
+Temperature 370 K
+
+Suffocation
+
+Heals suffocation damage so quickly that you could have a spacewalk, but it mutes your voice. Has a 33% chance of healing brute and burn damage per cycle as well.
+</string>
+    <string name="ParadiseChemistryAtropine"
+        >1 part Ethanol
+1 part Acetone
+1 part Diethylamine
+1 part Phenol
+1 part Sulphuric Acid
+
+	Brute, burn and suffocation
+
+	If subject\'s health is below 25 it will:
+
+    Heal 3 brute and burn damage per cycle.
+    Attempt to cap Oxyloss at 65 and losebreath at 3.
+    Cause confusion.
+
+Good for stabilizing critical patients. If overdosed it will deal toxin damage. It also aggressively purges Sarin.
+</string>
+    <string name="ParadiseChemistryCalomel"
+        >1 part Mercury
+1 part Chlorine
+Temperature 374 K
+
+Purge
+
+Quickly purges the body of all chemicals. If your health is above 20, large amounts of toxin damage is dealt.
+</string>
+    <string name="ParadiseChemistryMutadone"
+        >1 part Unstable Mutagen
+1 part Acetone
+1 part Bromine
+
+Genetic
+
+Heals your genetic defects.
+</string>
+    <string name="ParadiseChemistryUnique_Healing_Medicines"
+        >These healing drugs preform a unique function that is not commonly used or seen in game.
+</string>
+    <string name="ParadiseChemistryPotassium_Iodide"
+        >1 part Potassium
+1 part Iodine
+Radiation
+Reduces low radiation damage very effectively.
+</string>
+    <string name="ParadiseChemistryEphedrine"
+        >1 part Diethylamine
+1 part Sugar
+1 part Oil
+1 part Hydrogen
+ 	Stun
+Reduces stun times, increases run speed, and stabilizes crit.
+If overdosed it will deal toxin and oxyloss damage.
+</string>
+    <string name="ParadiseChemistryDiphenhydramine"
+        >1 part Oil
+
+
+1 part Carbon
+1 part Bromine
+1 part Diethylamine
+1 part Ethanol
+Histamine Overdose
+Purges body of lethal Histamine and reduces jitteriness while causing minor drowsiness.
+</string>
+    <string name="ParadiseChemistryMorphine"
+        >None: Can be either ordered from Cargo, grown from Botany or found in a NanoMed Plus
+
+ 	Painkiller
+
+Will allow you to walk faster. Will eventually knock you out if you take too much.
+If overdosed it will cause jitteriness, dizziness, force the victim to drop items in their hands and eventually deal toxin damage
+</string>
+    <string name="ParadiseChemistryEther"
+        >1 part Sulphuric Acid
+1 part Ethanol
+1 part Oxygen
+
+Sedative
+
+A nonaddictive alternative to morphine. Can be useful when performing surgery on species who require unique breathing equipment such as Vox or Plasmamen.
+</string>
+    <string name="ParadiseChemistryHydrocodone"
+        >1 part Morphine
+1 part Sulphuric Acid
+1 part Water
+1 part Oil
+
+	Painkiller
+An extremely strong painkiller that allows you to ignore almost any amount of pain
+</string>
+    <string name="ParadiseChemistryOculine"
+        >1 part Atropine
+1 part Spaceacillin
+1 part SalineGlucose Solution
+
+	Eye and Ear
+
+Cures blindness and heals eye damage over time, also cures deafness and heals ear damage.
+</string>
+    <string name="ParadiseChemistryEpinephrine"
+        >1 part Phenol
+1 part Acetone
+1 part Diethylamine
+1 part Oxygen
+1 part Chlorine
+1 part Hydrogen
+
+Stun + Brute, burn, suffocation and toxin
+
+Attempts to cap oxygen damage at 35. If the patient is in low to severe crit, heals toxins, brute, and burn very effectively. Will not heal patients who are almost dead.
+If overdosed will stun and deal toxin damage
+</string>
+    <string name="ParadiseChemistryAntihol"
+        >1 part Ethanol
+1 part Charcoal
+	Alcohol
+Helps remove Alcohol from someone\'s body, as well as eliminating its side effects.
+</string>
+    <string name="ParadiseChemistryStimulants"
+        >Traitor uplink
+Stun
+A traitor only reagent; it makes the user impervious to stuns and rapidly heals their body; when it wears off it deals tox and brute damage in addition to a stun.
+</string>
+    <string name="ParadiseChemistryInsulin"
+        >None: Can be either ordered from Cargo, grown from Botany or found in a NanoMed Plus
+Sugar Dependency
+Increases sugar depletion
+</string>
+    <string name="ParadiseChemistrySpaceacillin"
+        >1 part Fungus
+1 part Ethanol
+	Diseases and Infections
+A thetalactam antibiotic. A common and very useful medicine, effective against many diseases likely to be encountered in space. Slows progression of diseases. Treats infections.
+</string>
+    <string name="ParadiseChemistryStrange_Reagent"
+        >1 part Omnizine
+1 part Holy Water
+1 part Unstable Mutagen
+
+	Death
+A miracle drug that can bring a dead body back to life! WARNING: if the corpse has suffered more than 150 points combined of brute, burn, amd gene damage they will instead explode in a shower of gore. Deals gene damage on successfull revival
+If used on a living person it will deal Brute and Tox damage.
+</string>
+    <string name="ParadiseChemistrySimethicone"
+        >1 part Hydrogen
+1 part Chlorine
+1 part Silicon
+1 part Oxygen
+Methane reliever
+Prevents farting.
+</string>
+    <string name="ParadiseChemistryTeporone"
+        >1 part Acetone
+1 part Silicon
+1 part Plasma
+Body temperature stabilization
+Attempts to return the body\'s temperature to 98F in 10 degree increments.
+</string>
+    <string name="ParadiseChemistryHaloperidol"
+        >1 part PotassiumIodine
+1 part Aluminum
+1 part Chlorine
+1 part Fluorine
+1 part Oil
+
+	Antipsychotic and Stimulant Purgative
+
+Will rapidly purge hallucinogenic and stimulative chemical while reducing jitteriness and the drugs various negative effects. Can also cause drowsiness and brain damage.
+</string>
+    <string name="ParadiseChemistryRezadone"
+        >1 part Carpotoxin
+1 part Spaceacillin
+1 part Copper
+Clone Damage Healing
+Heals Clone damage, only way besides Cyroxadone. Can melt your face and be poisonous if left in the body for a long time.
+</string>
+    <string name="ParadiseChemistryMitocholide"
+        >1 part Cryoxadone
+1 part Synthflesh
+1 part Plasma
+Internal Damage Healing, limb revival
+Heals internal organ damage by .4 points each per cycle; a slowacting alternative to surgery. Great in a cryo mix! Also can fix septic or dead limbs if splashed on them.
+</string>
+    <string name="ParadiseChemistryLiquid_Solder"
+        >1 part Ethanol
+1 part Copper
+1 part Silver
+Temperature 370k
+Heals Synthetic Posibrain damage.
+Same thing as Mannitol, but for Synthetics!
+</string>
+    <string name="ParadiseChemistryDegreaser"
+        >1 part Oil
+1 part Sterilizine
+
+	Cleans Residue from IPC\'s.
+
+Basically the IPC version of Charcoal. Purges all chemicals faster, with Space Lube and UltraLube being purged at even higher rates.
+</string>
+    <string name="ParadiseChemistryFliptonium"
+        >1 Part Ephedrine
+1 Part Liquid Dark Matter
+1 Part Chocolate
+1 Part Gin and Sonic
+
+Causes the imbider to start spinning!
+
+When ingested or applied the sprite starts spinning in circles. Also helps against stuns.
+</string>
+    <string name="ParadiseChemistryOther_Chems"
+        >I ain\'t putting in illicit mixtures, there are way too many of them. GO TO THE WIKI HONK HONK!
+</string>
+
+</resources>

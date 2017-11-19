@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Paradise">
+        <item>-Paradise-</item>
+        <item>Jobs and Roles</item>
+        <item>Gamemodes</item>
+        <item>Species</item>
+        <item>Hacking</item>
+        <item>Construction</item>
+        <item>Chemistry</item>
+
+    </string-array>
+
+</resources>

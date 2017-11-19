@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ParadiseSpecies">
+        <item>Humans</item>
+        <item>Tajaran</item>
+        <item>Unathi</item>
+        <item>Skrell</item>
+        <item>Slime People</item>
+        <item>Vox</item>
+        <item>Grey</item>
+        <item>Diona</item>
+        <item>Machine People</item>
+        <item>Kidan</item>
+        <item>Shadow people</item>
+        <item>Plasmamen</item>
+        <item>Vulpkanin</item>
+        <item>Drask</item>
+        <item>Possible Candidates</item>
+        <item>Wryn</item>
+        <item>Nucleation</item>
+    </string-array>
+
+	<string name="ParadiseSpeciesHumans"
+        >Your regular humans. Quite underwhelming.</string>
+	<string name="ParadiseSpeciesTajaran"
+        >Cat-like aliens, hired by NanoTrasen. Try not to actually call them cat people.\nTajara can speak a unique language - Siik�tajr. Use this in game by typing say :j\nTajara have claws, and unarmed damage done by them is applied as sharp.\nTajara have improved vision in low-light conditions.\nTajara are less vulnerable to cold, but more vulnerable to heat.\nTajara are able to devour mice and other small animals with an aggressive grab.</string>
+	<string name="ParadiseSpeciesUnathi"
+        >Hired by Nanotrasen, these cold-blooded employees have various reptilian qualities. However, the other companies have been heard of recruiting them as well. </string>
+	<string name="ParadiseSpeciesSkrell"
+        >A race of gelatinous beings, who dedicate themselves to exploring the mind. Very technologically advanced. </string>
+	<string name="ParadiseSpeciesSlime_People"
+        >An evolved race of xenobiological slimes. </string>
+	<string name="ParadiseSpeciesVox"
+        >Birdlike beings. Vox who decided that peaceful station life is for them. </string>
+	<string name="ParadiseSpeciesGrey"
+        >Your stereotypical gray alien. Little is known about them </string>
+	<string name="ParadiseSpeciesDiona"
+        >Giant, lumbering tree-like beings. They are born through other species\' blood. </string>
+	<string name="ParadiseSpeciesMachine_People"
+        >Advanced robots who assist the crew. </string>
+	<string name="ParadiseSpeciesKidan"
+        >Insect beings with a tough, chitinous skin. </string>
+	<string name="ParadiseSpeciesShadow_people"
+        >Results of human experimentation with slimes. </string>
+	<string name="ParadiseSpeciesPlasmamen"
+        >A species made of plasma who require special suits when working in non-plasma filled environments.</string>
+	<string name="ParadiseSpeciesVulpkanin"
+        >A more newly encountered species with characteristics similar to canines or foxes.</string>
+	<string name="ParadiseSpeciesDrask"
+        >A race of cryonic, ice-like beings. Do not actually melt.</string>
+	<string name="ParadiseSpeciesPossible_Candidates"
+        >The following are not accessible by players, but may be created by admins during events</string>
+	<string name="ParadiseSpeciesWryn"
+        >An insect-like race who can speak to one another through some sort of hivemind</string>
+	<string name="ParadiseSpeciesNucleation"
+        >Former crew who have become disfigured from prolonged exposure to super matter.</string>
+
+</resources>

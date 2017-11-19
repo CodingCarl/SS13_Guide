@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ParadiseJobs">
+        <item>Jobs</item>
+        <item>Command</item> <item>Captain</item> <item>Head of Personnel</item> <item>Head of Security</item> <item>Chief Engineer</item> <item>Research Director</item> <item>Chief Medical Officer</item>
+        <item>-VIPs-</item>
+        <item>Nanotrasen Representative</item> <item>Magistrate</item> <item>Blueshield Officer</item>
+        <item>-Law and Order-</item>
+        <item>Warden</item> <item>Security Officer</item> <item>Security Pod Pilot</item> <item>Detective</item> <item>Internal Affairs</item> <item>Brig Physician</item>
+        <item>-Engineering-</item>
+        <item>Station Engineer</item> <item>Mechanic</item> <item>Atmospheric Technician</item>
+        <item>-Medical-</item>
+        <item>Medical Doctor</item> <item>Paramedic</item> <item>Chemist</item> <item>Geneticist</item> <item>Virologist</item> <item>Psychologist</item>
+        <item>-Research-</item>
+        <item>Scientist</item> <item>Roboticist</item> <item>Xenobiologist</item>
+        <item>-Cargo and Supply-</item>
+        <item>Quartermaster</item> <item>Cargo Technician</item> <item>Shaft Miner</item>
+        <item>-Service-</item>
+        <item>Janitor</item> <item>Chef</item> <item>Bartender</item> <item>Botanist</item> <item>Barber</item>
+        <item>-Miscellaneous-</item> <item>Civilian</item> <item>Clown</item> <item>Mime</item> <item>Chaplain</item> <item>Librarian</item>
+        <item>-Non-Human-</item>
+        <item>AI</item> <item>Cyborg</item> <item>Persoanl AI</item> <item>Guardian</item> <item>Ian</item> <item>Ghost</item> <item>Mouse</item> <item>Construct</item>
+        <item>-Antagonists</item>
+        <item>Traitor</item> <item>Changeling</item> <item>Nuclear Agent</item> <item>Xenomorph</item> <item>Wizard</item> <item>Cultist</item> <item>Shadowling</item> <item>Vampire</item> <item>Vox Raider</item> <item>Cortical Borer</item> <item>Revenant</item> <item>Blob</item> <item>Statue</item> <item>Abductor</item>
+        <item>-Special-</item>
+        <item>Emergency Response Team</item> <item>Death Commando</item> <item>Space Ninja</item> <item>Honk Squad</item> <item>Super Heroes</item>
+    </string-array>
+
+    <string name="ParadiseJobsCaptain"
+        >Command the heads. Make critical decisions regarding the station.</string>
+
+    <string name="ParadiseJobsHOP"
+        >Manage the civilian and supply departments. Manage job transfers. </string>
+
+<string name="ParadiseJobsHOS"
+    >Make sure your officers apply Space Law and not act as THE LAW. </string>
+
+<string name="ParadiseJobsCE"
+    >Manage the Engineers and Life Support Specialists. </string>
+
+<string name="ParadiseJobsRD"
+    >Oversee the entire research department. Make sure everything is done according to standards. 	</string>
+
+<string name="ParadiseJobsCMO"
+    >Remind people about their sensors. Manage the medical bay. Be a one-man-department. </string>
+
+<string name="ParadiseJobsNR"
+    >Be the word of god without it\'s power.</string>
+
+<string name="ParadiseJobsMagistrate"
+    >Ensure fair and just punishments or sentences are handed out. You are Space Law.</string>
+
+<string name="ParadiseJobsBO"
+    >Guard any Central Command VIPs. This includes the heads, visitors, representatives, ambassadors, etc. </string>
+
+<string name="ParadiseJobsWarden"
+    >Oversee the brig. Make sure records are up-to-date. Manage the prisoners within, Manage Armoury Inventory. </string>
+
+<string name="ParadiseJobsSO"
+    >Apply Space Law. Assure the safety of crew members and civilians. </string>
+
+<string name="ParadiseJobsSPP"
+    >Pilot the armed security pod, hunt down space fugitives. </string>
+
+<string name="ParadiseJobsDetective"
+    >Investigate crime scenes officers can\'t or won\'t solve. Harass the department to arrest the criminals you investigated. </string>
+
+<string name="ParadiseJobsIA"
+    >Investigate internal issues. Mostly security-related issues. Harass Central Command. </string>
+
+<string name="ParadiseJobsBP"
+    >Fix up all visitors and officers of the Brig. Bring suicidals to the Psychologist. </string>
+
+<string name="ParadiseJobsEngineer"
+    >Start up the engine(s), repair hull breaches and fix electronics. </string>
+
+<string name="ParadiseJobsMechanic"
+    >Make and maintain Station vehicles. Build a space pod. </string>
+
+<string name="ParadiseJobsAT"
+    >Set up atmospherics. Extinguish fires. Cry about people opening fire locks. Turn the borgs into swiss cheese when they get uppity. </string>
+
+<string name="ParadiseJobsMD"
+    >Treat the crew from damage attained by incompetence. </string>
+
+<string name="ParadiseJobsParamedic"
+    >Stalk the sensor console, stabilize patients and bring them in Medical. </string>
+
+<string name="ParadiseJobsChemist"
+    >Create important and required medicine for the doctors and cryogenics. </string>
+
+<string name="ParadiseJobsGeneticist"
+    >Discover genetic powers. Oversee cloning operations. </string>
+
+<string name="ParadiseJobsVirologist"
+    >Cure epidemics. discover antigens. Wash yourself constantly. </string>
+
+<string name="ParadiseJobsPsychologist"
+    >Handle insane patients. Do check-ups. Straight-jacket the clown. </string>
+
+<string name="ParadiseJobsScientist"
+    >Research new technology, create explosives, experiment with teleportation or discover ancient treasures. </string>
+
+<string name="ParadiseJobsRoboticist"
+    >Create cyborgs and mechs for the crew to enjoy. </string>
+
+<string name="ParadiseJobsXenobiologist"
+    >Breed new types of slimes with unique abilities. </string>
+
+<string name="ParadiseJobsQuartermaster"
+    >Oversee Cargo and mining. Make sure everything is up to standards and running smoothly. Remove the bodies from Disposals and yell for security. </string>
+
+<string name="ParadiseJobsCT"
+    >Fill the cargo paperwork. Order essentials. Deny the weapons crate the clown asked. </string>
+
+<string name="ParadiseJobsSM"
+    >Mine materials and smelt them for Research and Engineering. </string>
+
+<string name="ParadiseJobsJanitor"
+    >Wash the station from civilian blood and dirt. </string>
+
+<string name="ParadiseJobsChef"
+    >Prepare, cook and serve meals for the station to enjoy. </string>
+
+<string name="ParadiseJobsBartender"
+    >Mix and serve drinks. Shoot people with the shotgun. </string>
+
+<string name="ParadiseJobsBotanist"
+    >Grow useful plants for the Chef and station. </string>
+
+<string name="ParadiseJobsBarber"
+    >Give the station haircuts when they need it the least. </string>
+
+<string name="ParadiseJobsCivilian"
+    >Visit the station. Meet the Head of Personnel to get a job, or go greytiding. </string>
+
+<string name="ParadiseJobsClown"
+    >Honk!</string>
+
+<string name="ParadiseJobsMime"
+    >-</string>
+
+<string name="ParadiseJobsChaplain"
+    >Be the hero the station needs against Cultists and Vampires. Praise the Emprah. </string>
+
+<string name="ParadiseJobsLibrarian"
+    >Fill the bookcases with books, argue with the Chaplain. </string>
+
+<string name="ParadiseJobsAI"
+    >Follow your laws to the letter. Be called rogue 24/7.</string>
+
+<string name="ParadiseJobsCyborg"
+    >Follow your lawset. Assist the station. </string>
+
+<string name="ParadiseJobsPAI"
+    >Be someone\'s constant companion. Act as a translator.</string>
+
+<string name="ParadiseJobsGuardian"
+    >Follow the commands of your host. Battle your summoner\'s enemies </string>
+
+<string name="ParadiseJobsIan"
+    >A god that has been reincarnated into a corgi. </string>
+
+<string name="ParadiseJobsGhost"
+    >Watch antags kill people and flicker lights spookily. </string>
+
+<string name="ParadiseJobsMouse"
+    >Observe the round and squeak. Actually act like a mouse. </string>
+
+<string name="ParadiseJobsSpider"
+    >Turn the station into a gigantic spider web. </string>
+
+<string name="ParadiseJobsSC"
+    >Turn the crew into your snack. </string>
+
+<string name="ParadiseJobsConstruct"
+    >Serve your new master.</string>
+
+<string name="ParadiseJobsTraitor"
+    >Complete your objectives. Die an honorable death or escape on the shuttle. </string>
+
+<string name="ParadiseJobsChangeling"
+    >Create paranoia and fear. Turn into anyone and everyone.</string>
+
+<string name="ParadiseJobsNA"
+    >Get that fukken disk. Destroy the station with the Nuclear Bomb. </string>
+
+<string name="ParadiseJobsXenomorph"
+    >Grow. Spread. Repopulate. </string>
+
+<string name="ParadiseJobsWizard"
+    >Complete your objectives for the Wizard Order. </string>
+
+<string name="ParadiseJobsCultist"
+    >Serve Nar\'sie, the dark god from the shadowy depths of space. </string>
+
+<string name="ParadiseJobsShadowling"
+    >Thrive in the shadows and turn the crew into your personal maids. Just avoid the light.
+    </string>
+
+<string name="ParadiseJobsVampire"
+    >Complete your objectives. Drink blood. </string>
+
+<string name="ParadiseJobsVR"
+    >Complete your objectives for the Shoal. Follow the Inviolate. </string>
+
+<string name="ParadiseJobsCB"
+    >Survive. Climb into people\'s ears</string>
+
+<string name="ParadiseJobsRevenant"
+    >Drain life force from crew members. Achieve spookiness. </string>
+
+<string name="ParadiseJobsBlob"
+    >Expand, overtake the station, get nuked. </string>
+
+<string name="ParadiseJobsStatue"
+    >Be a statue, look smashing. Murder everyone. </string>
+
+<string name="ParadiseJobsAbductor"
+    >Capture crew. Modify. </string>
+
+<string name="ParadiseJobsERT"
+    >Respond to the emergency. Protect the crew. </string>
+
+<string name="ParadiseJobsDC"
+    >Eliminate the threat to the station by any means. </string>
+
+<string name="ParadiseJobsSN"
+    >Complete your objectives, that may include either protecting the crew, or killing them. 	</string>
+
+<string name="ParadiseJobsHS"
+    >Station lacks HONKs! Provide the station with HONKS! </string>
+
+<string name="ParadiseJobsSH"
+    >Save the the station and the day! </string>
+
+</resources>

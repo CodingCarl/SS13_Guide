@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Gamemodes">
+        <item>Secret</item>
+        <item>Traitor</item>
+        <item>Auto Traitor</item>
+        <item>Changeling</item>
+        <item>Vampire</item>
+        <item>Shadowling</item>
+        <item>Traitor and Changeling</item>
+        <item>Traitor and Vampire</item>
+        <item>Nuclear Emergency</item>
+        <item>Blob</item>
+        <item>Cult</item>
+        <item>Wizard</item>
+        <item>Extended</item>
+    </string-array>
+
+    <string name="GamemodesSecret"
+        >The default game mode on Paradise. This mode picks from most of the good modes randomly, and doesn\'t inform the players what the game mode is at the beginning of the round. In addition, certain random events may occur during the round.
+</string>
+    <string name="GamemodesTraitor"
+        >The most common game mode in secret. In Traitor, one or more crew members are Syndicate agents and are given a PDA Uplink to provide them with useful tools to help them complete their goal. The Crew must find out who the traitors are and stop them from reaching their goal.
+</string>
+    <string name="GamemodesAuto_Traitor"
+        >Similar to Traitor, but people start to become Traitors as the round progresses.
+</string>
+    <string name="GamemodesChangeling"
+        >Some of the crew are not what they appear to be! These Changelings are monsters in human form, with the ability to absorb (eat) people and take on their DNA/identity.
+</string>
+    <string name="GamemodesVampire"
+        >Similar to Changeling and Traitor, Vampires are on-board the Cyberiad with objectives similar to traitors. These life force-absorbing monsters want thirst for blood! And they\'ll not stop until they\'re done with their objectives. Be very careful and do not get your blood sucked by them!
+</string>
+    <string name="GamemodesShadowling"
+        >Stay away from maintenance (Even more so than usual) or you might just be turned into a thrall. Shadowlings are fragile beings that start out looking like a normal crewmember. They can \'evolve\' into a weak shadowling form, which has limited powers, and will cause them to take damage in the light. They thrive in the dark, however. After they capture fifteen \'thralls\' (Crew which has been turned into shadowling slaves), they can form into ascendance form, at which point you are Boned.
+</string>
+    <string name="GamemodesTraitor_and_Changeling"
+        >The station has been infiltrated by both Changelings and Traitors! Although rare, it is possible to be both a traitor and a changeling. Traitor-changelings are given 4 objectives to complete, but can use both a syndicate uplink and their changeling abilities to accomplish them.
+</string>
+    <string name="GamemodesTraitor_and_Vampire"
+        >Syndicate Traitors joined forces with the Vampires and infiltrated into the NSS Cyberiad! Similar to the aforementioned gamemode but with vampires in place of changelings.
+</string>
+    <string name="GamemodesNuclear_Emergency"
+        >A team of five Syndicate operatives has been sent on a mission to completely destroy the station with a nuclear bomb. However, they must get the Nuclear Authentication Disk from the station itself in order to arm the bomb, and the crew (or at least the captain) will be doing everything in their power to stop the attackers from getting the disk. The operatives have access to the same items Traitors get in order to complete their mission, as well as Pinpointers that will allow them to hunt for the Disk.
+</string>
+    <string name="GamemodesBlob"
+        >The Blob is a large and constantly growing sentient creature which destroys everything in its path, attacking whatever gets in the way. Destroy the blob before it destroys the entire station!
+</string>
+    <string name="GamemodesCult"
+        >A vile magic cult of brainwashed acolytes has infiltrated the station, and it is up to Security and the Chaplain to stop them.
+</string>
+    <string name="GamemodesWizard"
+        >A Space Wizard has infiltrated the station! Wielding an arsenal of powerful spells that can defy physics and even time and space itself, he will stop at nothing to advance the Space Wizard Federation\'s agenda (which is remarkably similar to the syndicate\'s). Nanotransen and the SWF are known enemies, so the crew has no choice but to destroy the wizard! Accomplish this by beating the wizard\'s brains in with anything. The wizard\'s goals are mainly to steal or cause havoc on the station and escape on the shuttle.
+The Wizard can have an apprentice sometimes.
+</string>
+    <string name="GamemodesExtended"
+        >A gamemode where there are no antagonists - random events can still occur, however.
+
+This mode is designed for people to utilize the relative peace and quiet to roleplay, or to take on large projects that would otherwise not be viable during an antagonist round.
+</string>
+
+</resources>

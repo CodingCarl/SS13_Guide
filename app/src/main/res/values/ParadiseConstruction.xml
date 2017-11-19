@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ParadiseConstruction">
+        <item>Floor</item>
+        <item>Light Floor</item>
+        <item>Walls</item>
+        <item>Reinforced walls</item>
+        <item>Grille</item>
+        <item>Glass panels</item>
+        <item>Reinforced glass panels</item>
+        <item>WindowDoor</item>
+        <item>Hidden Door</item>
+        <item>Table</item>
+        <item>APC</item>
+        <item>Air Alarm</item>
+        <item>Intercom Radio</item>
+        <item>Fire Alarm</item>
+        <item>Airlock</item>
+        <item>Computers</item>
+        <item>AI Core</item>
+        <item>Machine</item>
+        <item>Light Fixture</item>
+        <item>Security Camera</item>
+        <item>Turrets</item>
+        <item>Recharge Station</item>
+        <item>Flamethrower</item>
+        <item>Disposal Pipes and Machinery</item>
+        <item>Solar Panels and Trackers</item>
+        <item>Bookcase</item>
+        <item>Locker</item>
+        <item>Display Case</item>
+    </string-array>
+
+    <string name="ParadiseConstructionFloor"
+        >Place rods on space.
+Then place floor tile on top of that.
+Then place any type of flooring on top of that for decoration.
+Deconstruction
+For all floors, use a crowbar on a floor tile to remove it
+</string>
+    <string name="ParadiseConstructionLight_Floor"
+        >Assuming there already is a plating
+Use the wire on glass
+Use the metal on the tile you get
+Place the light tile on the plating
+Deconstruction
+If you\'re working on a light floor, you can further dismantle the light floor tile:
+Use a crowbar on the light tile to remove the metal
+Use wirecutters on the resulting tile to separate wires from glass
+</string>
+    <string name="ParadiseConstructionWalls"
+        >Click the metal in your hand to open the construction panel,
+Choose \'Build wall girders\' from the list
+Use the remaining 2 sheets of metal on the girders
+Deconstruction
+Weld off the plating
+Wrench the girders apart
+Alternately, you can use a Crowbar to dislodge the girders and drag them out of the way
+</string>
+    <string name="ParadiseConstructionReinforced_walls"
+        >Click the metal in your hand to open the construction panel,
+Choose \'Build wall girders\' form the list
+Use the plasteel on the girders to reinforce them
+Use the last plasteel sheet on the reinforced girders to finish the wall
+Deconstruction
+Wirecutters.
+Screwdriver.
+Welder.
+Crowbar.
+Wrench.
+Welder.
+Crowbar.
+Screwdriver.
+Wirecutters.
+Wrench.
+</string>
+    <string name="ParadiseConstructionGrille"
+        >Stand where you wish the grille to be placed
+Click on the stack of 2 rods with the hand you have them in
+Deconstruction
+Use wirecutters.
+</string>
+    <string name="ParadiseConstructionGlass_panels"
+        >One directional
+Click the glass pane
+Click the "one direct" button
+Right-click the new pane and rotate it
+Use the screwdriver to fasten it down
+Alternatively:
+Use the glass on a grille.
+Right-click the new pane and rotate it
+Use the screwdriver to fasten it down
+Full
+Click the glass pane
+Click the "full" button
+Use the screwdriver to fasten it down
+Deconstruction
+Screwdriver to detach it from its sockets
+Wrench to deconstruct the glass into a sheet of glass
+</string>
+    <string name="ParadiseConstructionReinforced_glass_panels"
+        >One directional
+ Click the reinforced glass pane
+ Click the "one direct" button
+ Right-click the new pane and rotate it
+ Screwdriver (Secure frame to floor.)
+ Crowbar (Pop pane in.)
+ Screwdriver (Secure pane.)
+
+ Alternatively:
+ Use the reinforced glass on a grille.
+ Right-click the new pane and rotate it
+ Screwdriver (Secure frame to floor.)
+ Crowbar (Pop pane in.)
+ Screwdriver (Secure pane.)
+
+Full
+
+Click the reinforced glass pane
+ Click the "full" button
+ Screwdriver
+ Crowbar
+ Screwdriver
+
+Deconstruction
+
+Screwdriver to loosen the pane.
+ Crowbar to pop it out.
+ Screwdriver to unscrew the frame.
+ Wrench to deconstruct the glass.
+</string>
+    <string name="ParadiseConstructionWindowDoor"
+        >Click the reinforced glass pane
+ Click the "Windoor" button
+ Wrench
+ Plasteel (Optional: To create a secure windoor)
+ Cable
+ Airlock Electronics
+ Crowbar
+
+Deconstruction
+
+ Open the windoor
+ Screwdriver
+ Crowbar the airlock electronics out
+ Wirecutters
+ Wrench
+ Welder
+ (Note: as of right now an emagged windoor can not be deconstructed, harmed, or repaired. It is invincible)
+</string>
+    <string name="ParadiseConstructionHidden_Door"
+        >Regular
+ Click the metal in your hand to open the construction panel,
+ Choose \'Build wall girders\' form the list
+ Use crowbar on girders and wait a few seconds for the girders to dislodge.
+ Use the remaining 2 sheets of metal on the girders
+
+To turn a wall into a hidden door, follow the deconstruction guide for the wall type until the final wrenching, and instead proceed from the "Use crowbar on girders" line above.
+
+Reinforced
+Click the metal in your hand to open the construction panel,
+ Choose \'Build wall girders\' form the list
+ Use crowbar on girders and wait a few seconds for the girders to dislodge.
+ Use the reinforced metal on the dislodged girders twice to finish it
+
+Deconstruction
+Hidden Door (Regular or Reinforced)
+ Screwdriver
+ Welder
+</string>
+    <string name="ParadiseConstructionTable"
+        >Use two sheets of metal to construct table parts
+ Use the collapsed table on itself while holding it in your hand
+Deconstruction
+Wrench to disassemble the table.
+
+Reinforced Table
+Use four metal rods on some table parts
+ Use the collapsed table on itself while holding it in your hand
+
+Deconstruction
+ Welder to weaken the table.
+ Wrench to disassemble it.
+</string>
+    <string name="ParadiseConstructionAPC"
+        > Use the metal and make an APC frame
+ Use the frame on the wall you want the APC on.
+ Fit it with the wire coil.
+ Fit it with the Power Control Module.
+ Screwdriver the electronics into place.
+ Add the Power Cell.
+ Crowbar shut. It starts ID locked, with the cover engaged and the main switch turned off.
+
+APCs may only be placed in areas which have been defined as a Station Area using the Chief Engineer\'s Station Blueprints. If you\'re trying to replace a broken APC, you can get the cover off by breaking it, likely with a fire extinguisher, or with a crowbar.
+Deconstruction
+Requires
+Screwdriver, Wirecutters, Crowbar, Welder, Authorized ID
+
+ Swipe Card to unlock APC.
+ Remove Power Cell.
+ Screwdriver to unsecure electronics.
+ Crowbar to lift floor tile in front of APC
+ Wirecutters to remove cables.
+ Crowbar to remove Power Control Board.
+ Welder to remover from wall.
+ Wrenching the frame that is now detached from the wall de-constructs it to two metal sheets.
+</string>
+    <string name="ParadiseConstructionAir_Alarm"
+        >Construction
+Requires
+2 x Metal, 1x Wire coil, 1x Circuitboard Air Alarm Electronics, Screwdriver
+
+ Use the metal and make an air alarm frame.
+ Use the frame on the wall you want it on.
+ Put in the electronics.
+ Wire it with 5 cable pieces.
+ Screwdriver to close.
+
+Deconstruction
+Requires
+Screwdriver, Wirecutters, Crowbar, Wrench
+
+Open cover with screwdriver.
+Cut all the wires using wirecutters.
+Cut the remaining wires by clicking on the airalarm with wirecutters.
+Pry out the circuit using the crowbar.
+Remove the frame from the wall using the wrench.
+</string>
+    <string name="ParadiseConstructionIntercom_Radio"
+        >Construction
+Requires
+2 x Metal, 1x Wire coil, 1x Circuitboard Intercom Electronics, Screwdriver
+
+ Use the metal and make an intercom frame.
+ Use the frame on the wall you want it on.
+ Put in the electronics.
+ Wire it with 5 cable pieces.
+ Screwdriver to close.
+
+Deconstruction
+Requires
+Screwdriver, Wirecutters, Crowbar, Welder, (Optional) Welding Helmet
+
+Open cover with screwdriver.
+Cut all the wires using wirecutters.
+Cut the remaining wires by clicking on the intercom with wirecutters.
+Pry out the circuit using the crowbar.
+(Optional) To prevent eye damage, put on a welder mask or goggles.
+Remove the frame from the wall using the welder.
+</string>
+    <string name="ParadiseConstructionFire_Alarm"
+        >Construction
+Requires
+2 x Metal, 1x Wire coil, 1x Circuitboard Fire Alarm Electronics, Screwdriver
+
+ Use the metal and make an air alarm frame.
+ Use the frame on the wall you want it on.
+ Put in the electronics.
+ Wire it with 5 cable pieces.
+ Screwdriver to close.
+
+Deconstruction
+Requires
+Screwdriver, Wirecutters, Crowbar, Wrench
+
+Open cover with screwdriver.
+Cut the wires by clicking on the firealarm with wirecutters.
+Pry out the circuit using the crowbar.
+Remove the frame from the wall using the wrench.
+</string>
+    <string name="ParadiseConstructionAirlock"
+        >Construction
+Requires
+4 x Metal, 1x Reinforced glass, 1x Wire coil, Wrench, Screwdriver, 1x Circuitboard
+
+ Use the metal and make an Airlock Assembly
+ Wrench it inplace
+ Use pen to name the Airlock (OPTIONAL)
+ Add reinforced glass (Only if you wish to make a glass airlock)
+ Add wires
+ Unlock the airlock electronic board with an ID
+ Use the airlock electronic board and set the access level
+ Add the airlock electronic board to the airlock frame.
+ Screwdriver to finish
+
+Deconstruction
+Requires
+Welder, Wrench, Screwdriver, Wirecutters, Crowbar, Multitool
+
+ Screwdriver the door.
+ Use multitool and wirecutters to disable everything except the doorbolts as detailed here. Doorbolts must be up for this to work.
+ Weld the door shut.
+ Crowbar the electronics out. (if the door is electrified, this won\'t work for some reason)
+ Wirecut the wires out.
+ Unsecure it with a wrench.
+ Weld it to deconstruct to metal plates.
+
+Cannot be done to an emagged airlock. RCD deconstruction must be used for that. It is possible to build a new airlock over the emagged one.
+</string>
+    <string name="ParadiseConstructionComputers"
+        >Construction
+Requires
+5 x Metal, 2x Glass, 1x Wire coil (5 pieces), Wrench, Screwdriver, 1x Circuitboard
+
+ Use the metal to open the construction panel
+ Choose Computer frame
+ Wrench it inplace
+ Insert Circuitboard
+ Screwdriver
+ Wires
+ glass
+ Screwdriver to finish
+
+Deconstruction
+Requires
+Welder, Wrench, Screwdriver, Wirecutters, Crowbar
+
+ Screwdriver to detach the screen.
+ Crowbar to pry off the screen.
+ Wirecutters to cut the cables.
+ Screwdriver to detach the circuit lid.
+ Crowbar to pry out the circuit.
+ Wrench to detach the frame.
+ Welder to disassemble the frame.
+
+Returns all components used in construction.
+</string>
+    <string name="ParadiseConstructionAI_Core"
+        >Construction
+Requires
+4 x Reinforced metal, 2x Reinforced Glass, 1x Wire Coil, Wrench, Screwdriver, 1x AI Circuitboard, optional: Human brain
+
+ 0AICore.pngBuild Frame from 4 reinforced sheets
+ Wrench into place
+ 1AICore.pngAdd AI Core circuit board
+ 2AICore.pngScrewdriver
+ 3AICore.pngAdd wires
+ 4AICore.pngAdd brain placed in an MMI (only if you want a NEW AI)
+ 5AICore.pngAdd reinforced glass
+ Screwdriver
+
+Deconstruction
+
+While you can\'t outright disassemble an AI after it is built there are ways to deal with it.
+
+    Intellicard can be used to transfer the AI\'s consciousness, or kill/wipe it
+    Wrench can be used on the core to move it
+    The AI Core is vulnerable to attacks, bombs etc
+</string>
+    <string name="ParadiseConstructionMachine"
+        >Their construction detailed in the machine construction guide.
+So yeah check the wiki. Every machine is different.
+Deconstruction
+Requires
+Screwdriver, Crowbar, Wirecutters, Wrench
+
+ Screwdriver to open the cover.
+ Crowbar to pry out the circuit.
+ Wirecutters to remove the wires.
+ Wrench to disassemble the frame.
+
+Usually returns all or most components used in construction. Some components may become broken.
+</string>
+    <string name="ParadiseConstructionLight_Fixture"
+        >Construction
+Requires
+2 x Metal, 1x Wire Coil, light tube/bulb,Screwdriver
+
+ Build frame from 2 metal sheets (or 1 metal sheet for small lights)
+ Place frame on wall
+ Add wires
+ Screwdriver
+ Add light tube (or light bulb for small fixtures)
+</string>
+    <string name="ParadiseConstructionSecurity_Camera"
+        >Construction
+Requires
+1 x Camera Assembly, 1x Wire Coil, Wrench, Welder, Screwdriver
+
+ Place the camera assembly on the tile where\'d you like the camera to be.
+ Wrench it into position
+ Weld it to the wall.
+ Add any additional upgrades. Plasma sheet for EMP proof, analyzer for x-ray, and proximity sensor for motion sensing (OPTIONAL)
+ Add wire.
+ Screwdriver the camera to complete it.
+ Set camera network (default is SS13)
+ Set camera direction
+
+For upgrades, insert solid plasma for EMP proofing, an analyzer for X-Ray and a proximity sensor for Motion.
+Deconstruction
+Requires
+Screwdriver, Wirecutters, Crowbar, Wrench, Welder
+
+ Screwdriver the camera to open the back panel.
+ Use your wirecutter to cut all the wires. (Cutting the alarm wire is optional)
+ Use your welder to unweld the camera from the wall.
+ Wrench the camera to unattach it from the wall.
+ Crowbar the camera assembly to remove any upgrades.
+</string>
+    <string name="ParadiseConstructionTurrets"
+        >Construction
+requires
+7 x Metal, Wrench, Screwdriver, Welder, 1 x any energy-based gun , 1 x proximity sensor
+
+ Build a turret frame from metal
+ Use a wrench to secure the turret frame(it can be moved around before being secured)
+ Use metal on the turret frame to build the cover
+ Use a wrench on the frame to bolt the cover
+ Add the gun
+ Add the prox sensor
+ Use a screwdriver to secure it all
+ Use more metal on the frame
+ Finally use a welder to secure the second layer of metal
+
+ Deconstruction
+
+ Shoot it a bunch of times
+
+</string>
+    <string name="ParadiseConstructionRecharge_Station"
+        >Recharge Station
+Deconstruction
+Requires
+Screwdriver, Crowbar, Wirecutters, Wrench, Authorized ID
+
+ Unlock the charger with an ID
+ Screwdriver to open the cover.
+ Wrench to dislodge the internal plating.
+ Wirecutters to remove the wires.
+ Crowbar to remove the components.
+
+Usually returns all or most components used in construction. Some components may become broken.
+</string>
+    <string name="ParadiseConstructionFlamethrower"
+        >Requires
+1 x Rods, Screwdriver, Welder, Igniter, 1 x plasma tank
+
+ Screwdriver the welder
+ Add rods to the welder to create the flamethrower
+ Screwdriver the igniter
+ Add the igniter to the flamethrower
+ Screwdriver to finish
+ Load a plasma tank- high pressures work best
+
+You can also get one from a hacked Autolathe, minus the plasma tank. It is not very useful but it is used in science and it can destroy alien weeds.
+</string>
+    <string name="ParadiseConstructionDisposal_Pipes_and_Machinery"
+        >Construction
+Requires
+1 x Disposal Pipe/Machine, Welder, Wrench, Crowbar
+
+ Retrieve the pipe/machine from the Disposal Pipe Dispenser (found in Atmosia)
+ Crowbar floortile if exists to access plating
+ Move pipe over plating, rotate and flip using the rightclick menu
+ Wrench pipe
+ Weld pipe
+
+Deconstruction
+Requires
+Screwdriver, Welder, Wrench
+
+ If Disposal Bin, turn off the pump
+ Screwdriver to remove power connection
+ Welder on machine to remove its joints
+ Wrench to detach it from the plating
+</string>
+    <string name="ParadiseConstructionSolar_Panels_and_Trackers"
+        >Construction
+Requires
+Solar Assembly, Wrench, Glass or Reinforced Glass, Tracker Electronics (OPTIONAL)
+
+ Place the solar assembly on where you want to construct your solar panel/tracker. To connect it to a wire you must construct it under a wire node.
+ Wrench the solar assembly into place.
+ Add the electronics if you want to create a solar tracker (OPTIONAL)
+ Finish the construction by placing glass, or reinforced glass, into the assembly frame.
+
+Deconstruction
+Requires
+Crowbar, Wrench
+
+ Take out the panel with a crowbar.
+ If you are deconstructing a tracker, you can take out the electronics with your crowbar (OPTIONAL)
+ Unwrench the leftover assembly from it\'s place and you will be able to move it.
+</string>
+    <string name="ParadiseConstructionBookcase"
+        >Construction
+Requires
+5 x Planks.png, Wrench,
+
+ Construct a frame with 4 wooden planks.
+ Wrench the frame into place.
+ Add a plank to the frame to make a shelf.
+
+Deconstruction
+Requires
+Crowbar, Wrench,
+
+ Crowbar out the shelf.
+ Unsecure the frame with a wrench.
+ Break apart the frame with a crowbar.
+</string>
+    <string name="ParadiseConstructionLocker"
+        >Construction
+
+ Open the metal construction menu by using the metal on itself
+ Select locker from the construction list
+
+Deconstruction
+Requires
+Welder
+
+ Open the locker.
+ Weld the locker.
+</string>
+    <string name="ParadiseConstructionDisplay_Case"
+        >Construction
+Requires
+5 x Metal, 5x Glass, Screwdriver, 1x Circuitboard, optional: Proximity Sensor
+
+ Use the metal and make a machine frame.
+ Add the glass to the machine frame.
+ Unlock the airlock electronic board with an ID.
+ Use the airlock electronic board and set the access level.
+ Add the airlock electronic board to the machine frame.
+ Optional: Add a proximity sensor to enable the burglar alarm.
+ Screwdriver to finish.
+
+Deconstruction
+Requires
+Wrench, Crowbar
+
+ Unlock the display case with an ID card.
+ Use the crowbar to pry the frame apart.
+ Use the crowbar to remove the airlock electronics.
+ Use the crowbar to pry the glass out of the frame.
+ Use the wrench to deconstruct the frame.
+</string>
+
+</resources>

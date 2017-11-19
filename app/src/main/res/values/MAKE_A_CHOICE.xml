@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="make_a_choice">
+        <item>Make a choice.</item>
+    </string-array>
+</resources>

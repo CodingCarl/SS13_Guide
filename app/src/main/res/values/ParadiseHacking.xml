@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ParadiseHacking">
+        <item>What you will need</item>
+        <item>Airlocks</item>
+        <item>Finding the Right Wires With a Multitool</item>
+        <item>Airlock Wire Functions</item>
+        <item>APCs</item>
+        <item>Atmos Alarms</item>
+        <item>Autolathes</item>
+        <item>MULEs</item>
+        <item>Cameras</item>
+        <item>Particle Accelerator</item>
+        <item>Syndicate Bomb</item>
+        <item>Lockboxes</item>
+        <item>Safes</item>
+        <item>Minor Hackables</item>
+        <item>Fire alarm</item>
+        <item>Security Gasmask</item>
+        <item>Radio and Signaler</item>
+        <item>Secure Briefcase and Secure Safe</item>
+        <item>Vending machines</item>
+        <item>Chem Dispensers</item>
+    </string-array>
+
+    <string name="ParadiseHackingWhat_you_will_need"
+        >Insulated gloves - Hackables have power lines, and cutting/pulsing these without gloves can harm you.
+Screwdriver - For opening up panels and the like. A necessary tool
+Wirecutters - For cutting and mending wires. Also a necessary tool
+Multitool - For pulsing wires; not necessary for most hacking, but makes life a lot easier.
+Crowbar - For prying the door open once you\'ve hacked it.
+</string>
+    <string name="ParadiseHackingAirlocks"
+        >Both internal and external access airlocks are hackable, though Hazard Door.png the hazard doors are not hackable. Wires are randomized at the start of each round, but are standardized throughout the station (e.g., every orange wire might toggle the bolts). This is probably where you\'ll be doing the most of your hacking. Remember, cutting power to the door will stop everything else from working.
+</string>
+    <string name="ParadiseHackingFinding_the_Right_Wires_With_a_Multitool"
+        >Remember to equip insulated gloves to prevent electric shock.
+Screwdriver in hand, click on the airlock to open the panel and expose the wiring
+With a multitool, click on the airlock to access the wiring.
+Click each "Pulse" link to pulse the wires, and keep an eye on "The door bolts" and "The test light" at the bottom of the menu (two wires will cause this - pick either one). When you see either the "The test light is off!" or "The door bolts have fallen!", remember the colors of both wires.
+To put the door back to normal, the test light will need to be on first. It will come back on by itself after 10 seconds. Then, re-pulse the door bolts wire to put them "up" again, and close the wiring panel with your screwdriver.
+</string>
+    <string name="ParadiseHackingAirlock_Wire_Functions"
+        >ID wire: Pulsing will flash the \'access denied\' red light; cutting will prevent anyone from opening the door if it\'s a restricted door; otherwise, it does nothing.
+AI control wire: Pulsing will flash the \'AI control light\' off and on quickly; cutting will prevent the AI from accessing the door unless s/he hacks the power wires
+Main power wires (Test light wires): Pulsing will turn off the \'test light\' and kill the power for 1 minute; cutting will kill the power for 10 seconds before backup power kicks in. There are two of these, and both are needed for the main power to work. Cutting will cause sparks.
+Backup power wire: Pulsing will turn off the \'test light\' kill the power for 1 minute if the main power is out, otherwise, nothing. Cutting will obviously disable the backup power. There are two of these, and both are needed for backup power to work. Cutting will cause sparks.
+Bolt control wire: Pulsing will toggle the bolts; cutting will drop the bolts.
+Door control wire: If the door is ID restricted, this is pretty much useless. If not, Pulsing will open/close the door and cutting will keep it that way, sort of like bolting.
+Electrifying wire: Pulsing will electrify the door for 30 seconds; cutting will permanently electrify it until mended. This will cause the safety light to flash. You can find the wire easily because the door shoots sparks when pulsed or cut. Obviously useless if there is no power to the door.
+Hydraulics wire: Pulsing will cause the hydraulics control light to flash red, causing anyone inside the airlock to be crushed when it closes. This causes around 40 brute damage if you let it close normally, or around 60-70 if you force it closed (clicking on the door). Both can cause broken bones that have to be fixed with Surgery. Cutting does absolutely nothing.
+</string>
+    <string name="ParadiseHackingAPCs"
+        >1. Screwdriver in hand, click on APC to open the panel and expose the wiring.
+2. Equip a multitool.
+3. Put wirecutters in your other hand to quickly Cut and Mend a wire if you short out the power accidentally (which will likely happen).
+
+Power wires (2): Pulse will short out the APC. You must cut and mend the wire to restore power. Not repairing the short will render the main breaker moot, even if accessed remotely.
+AI control wire: Like the airlock, pulsing will flash the light off and on quickly; cutting will disable AI control
+APC lock wire: This is the wining wire you want to pulse in order to unlock it.
+
+4. Use a screwdriver to close the wiring panel back up.
+</string>
+    <string name="ParadiseHackingAtmos_Alarms"
+        >1. Screwdriver in hand, click on Air Alarms to open the panel and expose the wiring.
+2. Equip a multitool and wirecutters.
+
+Id Scan: Pulsing will unlock the alarm for 30 seconds. Cutting will not allow people to access the alarm even if they have the correct ID. Mending will allow normal operation.
+Alarm: Cutting will cause an atmos alert in the area, and most likely alert the AI as well. Pulsing will reset the alarm status. Mending allows the alarm to work again.
+Panic Syphon: Cutting or Pulsing this wire will activate the panic syphon. Mending does nothing, and it must be turned off from the actual alarm.
+AI Control: Cutting this wire will prevent the AI from using the alarm. Pulsing it flashes the light on and off quickly. Mending allows AI control.
+Power: Cutting this wire will deactivate the alarm. Pulsing it turns it off for 30 seconds. Mending restored power.
+
+3. Use a screwdriver to close the wiring panel back up.
+</string>
+    <string name="ParadiseHackingAutolathes"
+        >1. Screwdriver the autolathe to open the maintenance panel.
+2. Click on the autolathe with an empty hand to access the wiring.
+3. There are three important wires. Cutting them toggles their light permanently, pulsing does so temporarily. Red light is power, green light is electrocution and blue is hacked options.
+4. Have fun accessing some new options
+
+Compressed matter cartridges (for the RCD)
+Handcuffs
+Infrared beam (security)
+Infrared sensor
+Bullets
+Flame Throwers (Without fuel)
+Other stuff
+</string>
+    <string name="ParadiseHackingMULEs"
+        >1. Unlock the controls with a Quartermaster\'s ID.
+2. Unscrew the maintenance panel with the screwdriver.
+3. Pulse various wires with a multitool. Pay attention to the reaction the MULE gives. Also note that these wires are randomized for each MULE
+3.1 Cutting the wire that causes the loading bay to thunk will remove cargo restrictions.
+3.2 Cutting the wire that leads to the safety light will awaken its thirst for blood and cause it to run over people in its path. DO NOT DO THIS UNLESS YOU HAVE A VERY GOOD REASON.
+3.3 Cutting one of the wires that makes the motor whine will safely speed up the MULE. Cutting both will immobilize it.
+
+4Screw the panel back on.
+</string>
+    <string name="ParadiseHackingCameras"
+        >1. With a screwdriver in hand, click on the camera.
+2. After opening the panel, use your wirecutter on the camera. You will now get a wire cut menu like the airlock. There are multiple wires to look out for. NOTE: Every camera will have randomized wires.
+
+1. Power Wire - Cutting it will disable the camera, fixing it will enable the camera. Pulsing toggle the camera on and off.
+2. Alarm Wire - You do not want to cut this wire. You have to use a multitool to detect this, as it\'ll give off a beeping sound when pulsed. Cutting will trigger an alarm, fixing it will cancel the alarm.
+3. Light Wire - Cutting this will stop the AI from using the camera\'s light, fixing it will allow the AI to use the camera light. Pulsing toggles it.
+4. Focus Wire - Cutting this will shorten the vision range to a default set of 2 tiles, fixing it will return it back to a normal 7 vision range. Pulsing it will toggle between the short and normal vision range.
+5. Two Nothing Wires - They do nothing, still required to deconstruct the camera.
+</string>
+    <string name="ParadiseHackingParticle_Accelerator"
+        >1. Setup the PA if you haven\'t already, then use a screwdriver on the computer to open the panel/expose the wires.\n
+2. Now click on the computer with a hand to bring up the wire menu. Here you can then get your tools in hand.\n
+\n
+2.1 The toggle wire will toggle the PA on or off when pulsed, if cut it will disable the PA and stop it from turning on.\n
+2.2 Strength wire will increase the strength of the PA when pulsed, if cut it will toggle the strength to 0 and stop people turning it up.\n
+2.3 Interface wire will stop people being able to use the control computer. Pulsing will toggle this, cutting/mending will toggle it on/off.\n
+2.4 The limit power wire will allow the PA to be turned up to strength 3 when cut. When pulsed you will hear a whirring noise.\n
+2.5 The nothing wire will do nothing, it\'s just here to make it harder.\n
+\n
+3 Close the panel for the PA to then work again. IMPORTANT: Don\'t forget to scan the parts again.\n
+</string>
+    <string name="ParadiseHackingSyndicate_Bomb"
+        >1. Check the description of the bomb to see if you have enough time left to even attempt a defusal. Use your best judgement for how much time you will need.
+2. If the timer is very long you might want to ask toxins for a bomb suit in case you fail, you\'ll still be killed, but at least you\'ll leave a corpse
+3. Screwdriver in hand, click on the bomb to open the panel and expose the wiring
+4. With multitool, wirecutters, or an empty hand, click on the bomb to access the wiring.
+5. CAREFULLY fiddle with the wires by pulsing to test each one and cutting what you need to.
+
+Boom wire: Pulsing will explode the bomb instantly if the bomb is live and cutting will do much the same! There\'s no way to prepare for the boom wire if the bomb is already live, it\'s just an inherent risk. Cutting a boom wire that\'s not live will make the bomb unusable.
+Bolt wire: Pulsing will hint at this wire\'s function, cutting will release the bolts holding the bomb down if they were activated to begin with. Ditch that bomb!
+Delay wire: Pulsing will add time to the clock of the bomb, giving you a little more breathing room.
+Proceed wire: Pulsing will reduce the clock, making your life that much harder. Cutting this wire while the bomb is live will explode the bomb!
+Activate wire: Pulsing a bomb that isn\'t live will start the countdown and cutting a bomb that IS live will stop the countdown. If you\'ve identified this wire, you\'ve won!
+</string>
+    <string name="ParadiseHackingLockboxes"
+        >High Security items that can be made in Research and Development come in boxes locked to all but those who have armory access. Emag it to get access to the sweet, sweet science inside if you cant get ID access.
+</string>
+    <string name="ParadiseHackingSafes"
+        >1. Hold stethoscope in one hand, interact with safe using empty hand.
+2. Spin the dial to the right until you hear clunks, then keep spinning till you hear clicks and clacks.
+3. Stop spinning to the right when you hear a "Klink", "Tink", or "Plink"
+4. Spin to the left until you hear clacks again.
+5. Stop spinning when you hear a "Spring", "Sprang", "Sproing", "Clunk", or "Krunk"
+6. Open the safe.
+</string>
+    <string name="ParadiseHackingMinor_Hackables"
+        >I haven\'t a clue why you\'d ever want to hack any of these things, but you can!
+</string>
+    <string name="ParadiseHackingFire_alarm"
+        >Fire alarms on getting cut will not detect or activate the fire doors in the case of a fire or a breach.
+</string>
+    <string name="ParadiseHackingSecurity_Gasmask"
+        >Using a screwdriver on a Security Gasmask will change the lines it uses. A wirecutter will break the gasmasks\'s hailer, causing it to switch to a set of lines permenantly. An emag will cause the hailer to spout a long string of curse words.
+</string>
+    <string name="ParadiseHackingRadio_and_Signaler"
+        >1. Screwdriver in hand, click on the offending radio so it can be modified or attached
+2. The usual radio use panel will pop up, but now with access to the wiring. If you\'ve closed it by accident, just click on the radio as if you were going to change the settings on it.
+3. There are three wires. Two have apparent uses; the third is pretty much useless.
+
+Output wire will disengage the speakers (or signal-receiving on a signaler)
+Input wire will permanently disengage the microphone (or signal-sending on a signaler)
+</string>
+    <string name="ParadiseHackingSecure_Briefcase_and_Secure_Safe"
+        >1. Screwdriver in hand, click on the (briefcase/safe) to open the panel and expose the wiring
+2. Multi-tool-spam the (briefcase/safe) until you get a confirmation that the memory is reset.
+3. The memory is now reset. Punch in your favorite code and hit E to set it.
+4. Screwdriver the panel shut.
+</string>
+    <string name="ParadiseHackingVending_machines"
+        >1. Firing wire when cut fires stuff at people. When pulsed will do so. Controlled by the blinking light. (Fun to watch people scream about being hit by stuff.)
+2. Contraband wire does nothing when cut, when pulsed unlocks illegal or rare goods and turns on the green light.
+3. Access wire when cut it changes the purple/yellow, allowing for ID restricted machines (med and sec machines) to be used by anyone. yellow means any one can use it and purple means only certain people can use it
+4. Shock wire Like the firing wire in effects from hacking, except it shocks instead of shoots. Toggles the orange light
+</string>
+    <string name="ParadiseHackingChem_Dispensers"
+        >One click with a multitool will unlock a wider variety of products to dispense. Also works for the bar\'s booze and soda dispensers.
+</string>
+
+</resources>
